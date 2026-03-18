@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1180097199.svg)](https://doi.org/10.5281/zenodo.18969917)
 # CoP-Balance-Feature-Extraction-Classification
 
 This repository contains MATLAB and Python code for feature extraction and machine learning classification of center of pressure (CoP) data recorded during standing balance tasks using the BTrackS Balance Tracking System.
